@@ -1,5 +1,5 @@
 [Project]
-FileName=Gerenciador de estoque (Prof-Fernando).dev
+FileName=Projeto_erenciador_de_estoque.dev
 Name=Gerenciador de estoque (Prof-Fernando)
 Type=1
 Ver=2
@@ -51,16 +51,6 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=TRAB FERNANDO PART2.cpp
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit2]
 FileName=christian.h
 CompileCpp=0
 Folder=
@@ -70,8 +60,9 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
-[Unit3]
+[Unit2]
 FileName=icon.rc
+CompileCpp=0
 Folder=Resources
 Compile=1
 Link=1
@@ -79,8 +70,18 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
-[Unit4]
+[Unit3]
 FileName=Load.h
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+CompileCpp=0
+
+[Unit4]
+FileName=Gerenciador_de_estoque_fonte.cpp
 CompileCpp=0
 Folder=
 Compile=1
